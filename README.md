@@ -7,5 +7,7 @@ if a graph is graphical by removing the highest degree
 vertex and seeing if the remaining graph is graphical
 also i made this one on my birthday :)
 
+degreeSequenceGraphicality.py
+
 # project 2: graph pebbling game
 
