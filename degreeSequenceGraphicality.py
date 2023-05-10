@@ -1,3 +1,6 @@
+# takes the input of a degree sequence of a graph G
+# and returns if G is graphical
+
 # input; must be in descending order w/ all degrees > 0
 inputSequence = [5,2,2,2,1,1,1,1,1]
 
